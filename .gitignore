@@ -2,35 +2,18 @@
 __pycache__/
 *.py[cod]
 *$py.class
-*.so
-.Python
-env/
-build/
-develop-eggs/
-dist/
-downloads/
-eggs/
-.eggs/
-lib/
-lib64/
-parts/
-sdist/
-var/
-*.egg-info/
-.installed.cfg
-*.egg
 
 # Virtual Environment
 venv/
 ENV/
 
-# VS Code
-.vscode/
+# Environment variables
+.env
 
-# Output files
+# Output directories
 output/
 *.wav
 *.mp3
 
-# Environment variables
-.env
+# VS Code
+.vscode/
