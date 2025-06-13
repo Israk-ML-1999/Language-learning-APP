@@ -15,6 +15,7 @@ A FastAPI-based translation and text-to-speech service using Groq LLaMA and Gemi
 1. Clone the repository:
 ```bash
 git clone https://github.com/Israk-ML-1999/Language-learning-APP.git
+cd Language-learning-APP
 ```
 
 2. Create a virtual environment:
